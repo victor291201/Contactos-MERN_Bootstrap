@@ -1,0 +1,82 @@
+.gradiente{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg,rgba(34,193,195,1)0%,rgba(229,181,78,1)100%);
+}
+.colorfondo{
+    background: #04415E;
+}
+.colorfondoi{
+    background: #F3F3F3;
+}
+.btncolor1{
+    background: linear-gradient(270deg,rgba(34,193,195,1)0%,rgba(229,181,78,1)100%);
+    background-position: 107px 0;
+    border:none;
+    transition:all ease 0.6s;
+}
+.btncolor2{
+    background: linear-gradient(270deg,rgba(34,193,195,1)0%,rgba(229,181,78,1)100%);
+    background-position: 107px 0;
+    border:none;
+    transition:all ease 0.6s;
+}
+.btncolor1:hover{
+    background: linear-gradient(90deg,rgba(34,193,195,1)0%,rgba(229,181,78,1)100%);
+    background-position: 0 -107px;
+    border:none;
+    transition:all ease 0.6s;
+}
+.btncolor2:hover{
+    background: linear-gradient(90deg,rgba(34,193,195,1)0%,rgba(229,181,78,1)100%);
+    background-position: 0 -107px;
+    border:none;
+    transition:all ease 0.6s;
+}
+.vh100{
+    height:100vh;
+}
+.h100{
+    min-height: 100%;
+}
+.w100{
+    width: 100%;
+}
+.botonflotante{
+    transition:all ease 0.4s;
+    border: 0.1px solid #B9B9B9;
+}
+.botonflotante:hover{
+    -webkit-box-shadow: 1px 10px 6px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 10px 6px -4px rgba(0,0,0,0.75);
+    box-shadow: 1px 10px 6px -4px rgba(0,0,0,0.75);
+    transform: scale(1.02);
+    transition:all ease 0.4s;
+}
+.rotar{
+    transform:rotate(90deg);
+    transition:all ease 0.6s;
+
+}
+.transform{
+    transition:all ease 0.4s;
+}
+.transform:hover{
+    -webkit-box-shadow: 1px 10px 6px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 10px 6px -4px rgba(0,0,0,0.75);
+    box-shadow: 1px 10px 6px -4px rgba(0,0,0,0.75);
+    transform: scale(1.02);
+    transition:all ease 0.4s;
+}
+.textsimple{
+    text-decoration: none;
+    color:black;
+}
+.textsimple:hover{
+    text-decoration: none;
+    color:black;
+}
+.flotantesuperior{
+    position: absolute;
+    top:0px;
+    right: 0px;
+}
