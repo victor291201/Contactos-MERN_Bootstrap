@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/victor291201/Contactos-MERN_Bootstrap.git/static/css/main.d6f0ee23.chunk.css",
+    "main.js": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/main.5f6de633.chunk.js",
+    "main.js.map": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/main.5f6de633.chunk.js.map",
+    "runtime-main.js": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/runtime-main.32efde3b.js",
+    "runtime-main.js.map": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/runtime-main.32efde3b.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/victor291201/Contactos-MERN_Bootstrap.git/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.414defd0.chunk.js": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/2.414defd0.chunk.js",
+    "static/js/2.414defd0.chunk.js.map": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/2.414defd0.chunk.js.map",
+    "static/js/3.e5374658.chunk.js": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/3.e5374658.chunk.js",
+    "static/js/3.e5374658.chunk.js.map": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/3.e5374658.chunk.js.map",
+    "index.html": "/victor291201/Contactos-MERN_Bootstrap.git/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/victor291201/Contactos-MERN_Bootstrap.git/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.d6f0ee23.chunk.css.map": "/victor291201/Contactos-MERN_Bootstrap.git/static/css/main.d6f0ee23.chunk.css.map",
+    "static/js/2.414defd0.chunk.js.LICENSE.txt": "/victor291201/Contactos-MERN_Bootstrap.git/static/js/2.414defd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32efde3b.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.414defd0.chunk.js",
+    "static/css/main.d6f0ee23.chunk.css",
+    "static/js/main.5f6de633.chunk.js"
+  ]
+}
